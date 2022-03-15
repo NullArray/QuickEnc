@@ -1,2 +1,2 @@
-# QuickEnd
+# QuickEnc
 OpenSSL Based Quick Crypt
